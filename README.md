@@ -49,5 +49,5 @@ We test the standard storage limit ($\alpha \approx 0.14N$). The simulation demo
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/hopfield-network.git](https://github.com/YOUR_USERNAME/hopfield-network.git)
-cd hopfield-network
+git clone [https://github.com/fa-mel/hopfield-network-project.git](https://github.com/fa-mel/hopfield-network-project.git)
+cd hopfield-network-project
