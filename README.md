@@ -27,7 +27,7 @@ Memories are stored by modifying the synaptic weights $w_{ij}$ according to the 
 $$w_{ij} = \frac{1}{N} \sum_{\mu=1}^{M} \xi_i^{\mu} \xi_j^{\mu}$$
 
 ### 3. Dynamics
-The state update rule (Glauber dynamics at $T=0$) minimizes the energy:
+The state update rule minimizes the energy:
 $$s_i(t+1) = \text{sgn}\left( \sum_{j} w_{ij} s_j(t) \right)$$
 
 ---
