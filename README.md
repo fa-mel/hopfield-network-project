@@ -51,3 +51,9 @@ We test the standard storage limit ($\alpha \approx 0.14N$). The simulation demo
 ```bash
 git clone [https://github.com/fa-mel/hopfield-network-project.git](https://github.com/fa-mel/hopfield-network-project.git)
 cd hopfield-network-project
+
+### Memory Recall Demo
+[![Watch the demo](Results/memory_recall.png)](Results/animated_recall.mp4)
+
+### Noisy Recall Demo
+[![Watch the demo](Results/memory_recall.png)](Results/animated_noisy_recall.mp4)
